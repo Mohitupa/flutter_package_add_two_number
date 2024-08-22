@@ -1,7 +1,7 @@
 name: add_two_numbers
 description: A simple Flutter package that provides a method to add two integers.
 version: 0.0.1
-homepage:
+homepage: https://github.com/Mohitupa/flutter_package_add_two_number
 
 environment:
   sdk: '>=3.3.4 <4.0.0'
